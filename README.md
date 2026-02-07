@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 <p>
-  Soy un estudiante de la carrera de Desarrollo de Software e Ingeniería de Sistemas del 
+  Estudiante de la carrera de Desarrollo de Software e Ingeniería de Sistemas del 
 <a href="https://www.itm.edu.co/">
   <img src="https://img.shields.io/badge/Instituto_Tecnol%C3%B3gico_Metropolitano-0072CE?style=for-the-badge&logo=education&logoColor=white" alt="ITM Medellin" />
 </a>
