@@ -5,8 +5,10 @@
 <a href="https://www.itm.edu.co/">
   <img src="https://img.shields.io/badge/Instituto_Tecnol%C3%B3gico_Metropolitano-0072CE?style=for-the-badge&logo=education&logoColor=white" alt="ITM Medellin" />
 </a>
-  , y graduado como Técnico Laboral en <br>
-  Desarrollo de Software de la
+ 
+  
+  Graduado como Técnico Laboral en  Desarrollo de Software <br>
+  de la
 <a href="https://www.pascualbravo.edu.co/">
   <img 
     src="https://img.shields.io/badge/Instituci%C3%B3n_Universitaria_Pascual_Bravo-F5F7FA?style=for-the-badge&logo=education&logoColor=0A1F44" 
