@@ -7,8 +7,7 @@
 </a>
  
   
-  Graduado como Técnico Laboral en  Desarrollo de Software <br>
-  de la
+  Graduado como Técnico Laboral en  Desarrollo de Software de la
 <a href="https://www.pascualbravo.edu.co/">
   <img 
     src="https://img.shields.io/badge/Instituci%C3%B3n_Universitaria_Pascual_Bravo-F5F7FA?style=for-the-badge&logo=education&logoColor=0A1F44" 
