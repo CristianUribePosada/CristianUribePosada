@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 <p>
-  I am a student of Software Development and Systems Engineering at the 
+  Student of Software Development and Systems Engineering at the 
 <a href="https://www.itm.edu.co/">
   <img src="https://img.shields.io/badge/Instituto_Tecnol%C3%B3gico_Metropolitano-0072CE?style=for-the-badge&logo=education&logoColor=white" alt="ITM Medellín" />
 </a>
