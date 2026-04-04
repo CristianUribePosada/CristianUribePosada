@@ -18,7 +18,7 @@
 
 ## 🏆 Proyectos Destacados
 
-<h4>Draw This</h4>
+<h3>Draw This</h3>
 <a href="https://github.com/DrawThis/draw-this-project">
   <img src="./img/draw.png" width="400px" alt="Draw This Project">
 </a>
