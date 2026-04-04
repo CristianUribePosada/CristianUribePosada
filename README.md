@@ -19,7 +19,7 @@
 ## 🏆 Proyectos Destacados
 
 <a href="https://github.com/DrawThis/draw-this-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrawThis&repo=draw-this-project&theme=tokyonight" />
+  <img src="./img/draw.png" width="400px" alt="Draw This Project">
 </a>
 
 ## 🛠️ My Toolkit / Mis Herramientas
