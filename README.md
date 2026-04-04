@@ -16,6 +16,12 @@
 </a>
 </p>
 
+## 🏆 Proyectos Destacados
+
+<a href="https://github.com/DrawThis/draw-this-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DrawThis&repo=draw-this-project&theme=radial" />
+</a>
+
 ## 🛠️ My Toolkit / Mis Herramientas
 
 **Languages/Lenguajes:**
