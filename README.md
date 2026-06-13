@@ -39,9 +39,9 @@
 <br>
 <a href="https://morsenap.up.railway.app/">https://morsenap.up.railway.app/</a>
 
-## 🛠️ My Toolkit / Mis Herramientas
+## 🛠️ Mis Herramientas
 
-**Languages/Lenguajes:**
+**Lenguajes:**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -52,13 +52,13 @@
 </p>
 </p>
 
-**Frameworks/Marcos de Trabajo:**
+**Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 </p>
 
-**Development Environment / Entorno de Desarrollo:**
+**Herramientas de Desarrollo:**
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
@@ -66,3 +66,5 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D17?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 </p>
+
+
