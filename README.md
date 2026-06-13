@@ -58,8 +58,11 @@
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 </p>
 
-**Deployment/Despliegues:**
+**Development Environment / Entorno de Desarrollo:**
 <p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/NetBeans-8BC34A?style=for-the-badge&logo=apachenetbeans&logoColor=white" alt="NetBeans" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D17?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 </p>
