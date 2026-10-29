@@ -1,9 +1,9 @@
 ## 🚀 Sobre Mi
 
 <p>
-  Estudiante de la carrera de Desarrollo de Software del 
+  Estudiante de la carrera de Desarrollo de Software de la
 <a href="https://www.itm.edu.co/">
-  <img src="https://img.shields.io/badge/Instituto_Tecnol%C3%B3gico_Metropolitano-0072CE?style=for-the-badge&logo=education&logoColor=white" alt="ITM Medellin" />
+  <img src="https://img.shields.io/badge/Instituci%C3%B3n_Universitaria_ITM-0072CE?style=for-the-badge&logo=education&logoColor=white" alt="ITM Medellin" />
 </a>
  
   
