@@ -30,7 +30,7 @@
   <img src="./img/proyectoUdeA.png" width="400px" alt="Proyecto UdeA">
 </a>
 <br>
-<a href="https://drawthis.vercel.app/">https://drawthis.vercel.app/</a>
+<a href="https://proyecto-udea.vercel.app/">https://proyecto-udea.vercel.app/</a>
 
 <h3>AthletaNet</h3>
 <a href="https://github.com/CristianUribePosada/AthletaNet">
