@@ -26,7 +26,7 @@
 <a href="https://drawthis.vercel.app/">https://drawthis.vercel.app/</a>
 
 <h3>Proyecto UdeA</h3>
-<a href="https://github.com/CristianUribe/proyecto-UdeA">
+<a href="https://github.com/CristianUribePosada/proyecto-UdeA">
   <img src="./img/proyectoUdeA.png" width="400px" alt="Proyecto UdeA">
 </a>
 <br>
